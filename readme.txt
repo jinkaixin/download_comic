@@ -4,7 +4,7 @@
 
 要求
 需要安装python最新版本，即3.x，安装的时候记得把添加到环境变量和pip这两个选项勾上
-需要安装lxml,BeautifulSoup和selenium模块
+需要安装requests,lxml,BeautifulSoup和selenium模块
 电脑上需要安装chrome，且需要配置好chromedriver,把chromedriver下载下来放到程序所在目录即可
 
 使用方法
